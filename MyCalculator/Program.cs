@@ -20,7 +20,7 @@ namespace MyCalculator
 
     public class Calculator
     {
-        public int AddNumbers(int a, int b)
+        public int AddNumbers(int a, int b) // Add comment
         {
             return (a + b);
 
