@@ -10,7 +10,7 @@ namespace MyCalculator
     {
         static void Main(string[] args)
         {
-            int result = new Calculator().AddNumbers(10, 20);
+            int result = new Calculator().AddNumbers(10, 20);// test comment
             Console.ReadLine();
         }
 
